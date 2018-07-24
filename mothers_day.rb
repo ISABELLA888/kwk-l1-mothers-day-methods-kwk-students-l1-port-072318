@@ -6,3 +6,7 @@ end
 
 mothers_day
 
+def mom_day(mom = "mother")
+  puts "Happy Mother's day! #{mom}"
+end
+mom_day
